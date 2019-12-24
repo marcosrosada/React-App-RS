@@ -14,6 +14,21 @@
             "id": 3,
             "title": "React",
             "description": "React Library for Components"
+        },
+        {
+            "id": 4,
+            "title": "json-server",
+            "description": "Json Server for test API"
+        },
+        {
+            "id": 5,
+            "title": "Node",
+            "description": "Node Environment for development"
+        },
+        {
+            "id": 6,
+            "title": "React",
+            "description": "React Library for Components"
         }
     ]
 }
