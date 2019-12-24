@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "description": "Json Server for test API"
+        },
+        {
+            "id": 2,
+            "title": "Node",
+            "description": "Node Environment for development"
+        },
+        {
+            "id": 3,
+            "title": "React",
+            "description": "React Library for Components"
+        }
+    ]
+}
