@@ -22,7 +22,7 @@ export default class Main extends Component {
         return (
             <div className="product-list">
                 {this.state.products.map(product => (
-                    <h2>{ product.title }</h2>
+                    <h2 key={product.id}>{ product.title }</h2>
                 ))}
             </div>
         );
