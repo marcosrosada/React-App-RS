@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 import api from '../../services/api';
 import './style.css';
@@ -29,7 +30,7 @@ export default class Main extends Component {
         const { productInfo } = this.state;
 
         if (productInfo.page === 1) return;
-        
+
         this.loadProducts(productInfo.page -= 1);
     }
 
@@ -37,7 +38,7 @@ export default class Main extends Component {
         const { productInfo } = this.state;
 
         if (productInfo.page === productInfo.pages) return;
-        
+
         this.loadProducts(productInfo.page += 1);
     }
 
@@ -51,7 +52,7 @@ export default class Main extends Component {
                     <article key={product.id}>
                         <strong>{product.title}</strong>
                         <p>{product.description}</p>
-                        <a href="">Acessar</a>
+                        <Link to={`/product/${product.id}`}>Acessar</Link>
                     </article>
                 ))}
 
