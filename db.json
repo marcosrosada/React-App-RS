@@ -17,18 +17,63 @@
         },
         {
             "id": 4,
-            "title": "json-server",
+            "title": "Javascript",
             "description": "Json Server for test API"
         },
         {
             "id": 5,
-            "title": "Node",
+            "title": "Angular",
             "description": "Node Environment for development"
         },
         {
             "id": 6,
-            "title": "React",
+            "title": "NPM",
             "description": "React Library for Components"
+        },
+        {
+            "id": 7,
+            "title": "Yarn",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 8,
+            "title": "Vue",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 9,
+            "title": "Jenkins",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 10,
+            "title": "Git",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 11,
+            "title": "Axios",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 12,
+            "title": "GraphQL",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 13,
+            "title": "WebPack",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 14,
+            "title": "Java",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
+        },
+        {
+            "id": 15,
+            "title": "MySql",
+            "description": "Xxxxx xxxxxx xxxxx xxxxxx xxxxx"
         }
     ]
 }
